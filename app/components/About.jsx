@@ -4,7 +4,7 @@ var About = (props) => {
   return(
     <div>
       <h3>About app</h3>
-      <p>This app finds you temperature from given location.</p>
+      <p>This app finds you temperature on given location.</p>
     </div>
   )
 };
