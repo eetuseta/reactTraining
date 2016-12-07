@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return(
     <div>
-      <h1 className="text-center">About app</h1>
+      <h1 className="text-center page-title">About app</h1>
       <p>
         This app finds you temperature on given location. It is built on React
         to train myself on react.js
