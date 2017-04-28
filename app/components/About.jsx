@@ -12,7 +12,7 @@ var About = (props) => {
 
      </p>
       <p>
-        Mahdollisesti hyödyllisiä linkkejä.
+        Mahdollisesti hyödyllisiä linkkejä. 
       </p>
       <ul>
         <li>
