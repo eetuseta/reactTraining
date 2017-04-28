@@ -9,7 +9,6 @@ var About = (props) => {
         politiikan väline, vaan pikemminkin mittari, kansakunnan sivistykseen.
 
         Lisätietoja halutessaan löytyy vaikkapa Setan sivuilta.
-
      </p>
       <p>
         Mahdollisesti hyödyllisiä linkkejä. 
